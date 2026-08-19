@@ -1,0 +1,11 @@
+[project]
+name = "Workout_Plan_Generator"
+version = "1.0.0"
+description = "Generate Personalized Workout Plans"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+   "streamlit",
+   "groq",
+   "python-dotenv"
+]
